@@ -3,21 +3,21 @@
 import os
 
 # default language ['en'|'ko'|'ja']
-DEFAULT_LANG = 'ja'
+DEFAULT_LANG = 'ko'
 
 # TimeZone
-TZone = "Asia/Tokyo"
+TZone = "Asia/seoul"
 
 # account
-ADMIN_ACCOUNT = "admin@xxx.com"
+ADMIN_ACCOUNT = "admin@wmtech.navercorp.com"
 DOMAIN_ID = 0
 
 # api
-API_ID = "kr1EHxxxxfJVz"
-SERVER_CONSUMER_KEY = "To8SnC7sxxxxxjqXZhO"
+API_ID = "kr1NyozvOuhOl"
+SERVER_CONSUMER_KEY = "8fhRs0w74wdbU15TaF1u"
 
-SERVER_ID = "96460cc1e778402xxxxxfe35fa97ce76"
-SECRET_KEY_NAME = "private_201xxxxx164308.key"
+SERVER_ID = "7440988eb11546eea7ef47fe307ecd05"
+SECRET_KEY_NAME = "private_20190802150156.key"
 
 # LOCAL ADDRESS
 LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
