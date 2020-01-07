@@ -10,7 +10,7 @@ TZone = "Asia/seoul"
 
 # account
 ADMIN_ACCOUNT = "admin@wmtech.navercorp.com"
-DOMAIN_ID = 0
+DOMAIN_ID = 92974
 
 # api
 API_ID = "kr1NyozvOuhOl"
